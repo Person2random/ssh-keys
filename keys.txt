@@ -1,1 +1,1 @@
-tcp://svknb-41-237-132-42.run.pinggy-free.link:39799
+tcp://svknb-41-237-132-42.run.pinggy-free.link
